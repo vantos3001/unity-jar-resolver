@@ -1,5 +1,5 @@
 {
-  "name": "com.vantos3001.unity-jar-resolver",
+  "name": "com.google.external-dependency-manager",
   "displayName": "Unity Jar Resolver",
   "version": "1.2.183",
   "unity": "2019.1",
