@@ -1,7 +1,7 @@
 {
   "name": "com.google.external-dependency-manager",
   "displayName": "Unity Jar Resolver",
-  "version": "1.2.183",
+  "version": "1.2.185",
   "unity": "2019.1",
   "description": "External Dependency Manager for Unity.",
   "keywords": [
